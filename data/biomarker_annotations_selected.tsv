@@ -1,0 +1,57 @@
+Name in TSV	Biomarker name	Unit	Group	Subgroup
+Total_C	Total cholesterol	mmol/l	Cholesterol	
+non_HDL_C	Total cholesterol minus HDL-C	mmol/l	Cholesterol	
+Remnant_C	Remnant cholesterol (non-HDL, non-LDL -cholesterol)	mmol/l	Cholesterol	
+VLDL_C	VLDL cholesterol	mmol/l	Cholesterol	
+Clinical_LDL_C	Clinical LDL cholesterol	mmol/l	Cholesterol	
+LDL_C	LDL cholesterol	mmol/l	Cholesterol	
+HDL_C	HDL cholesterol	mmol/l	Cholesterol	
+Total_TG	Total triglycerides	mmol/l	Triglycerides	
+Total_PL	Total phospholipids in lipoprotein particles	mmol/l	Phospholipids	
+Total_CE	Total esterified cholesterol	mmol/l	Cholesteryl esters	
+Total_FC	Total free cholesterol	mmol/l	Free cholesterol		
+Total_L	Total lipids in lipoprotein particles	mmol/l	Total lipids	
+Total_P	Total concentration of lipoprotein particles	mmol/l	Lipoprotein particle concentrations	
+VLDL_size	Average diameter for VLDL particles	nm	Lipoprotein particle sizes	
+LDL_size	Average diameter for LDL particles	nm	Lipoprotein particle sizes	
+HDL_size	Average diameter for HDL particles	nm	Lipoprotein particle sizes	
+Phosphoglyc	Phosphoglycerides	mmol/l	Other lipids	
+TG_by_PG	Ratio of triglycerides to phosphoglycerides	ratio	Other lipids	
+Cholines	Total cholines	mmol/l	Other lipids	
+Phosphatidylc	Phosphatidylcholines	mmol/l	Other lipids	
+Sphingomyelins	Sphingomyelins	mmol/l	Other lipids	
+ApoB	Apolipoprotein B	g/l	Apolipoproteins	
+ApoA1	Apolipoprotein A1	g/l	Apolipoproteins	
+ApoB_by_ApoA1	Ratio of apolipoprotein B to apolipoprotein A1	ratio	Apolipoproteins	
+Total_FA	Total fatty acids	mmol/l	Fatty acids	
+Unsaturation	Degree of unsaturation	degree	Fatty acids	
+Omega_3	Omega-3 fatty acids	mmol/l	Fatty acids	
+Omega_6	Omega-6 fatty acids	mmol/l	Fatty acids	
+PUFA	Polyunsaturated fatty acids	mmol/l	Fatty acids	
+MUFA	Monounsaturated fatty acids	mmol/l	Fatty acids	
+SFA	Saturated fatty acids	mmol/l	Fatty acids	
+LA	Linoleic acid	mmol/l	Fatty acids	
+DHA	Docosahexaenoic acid	mmol/l	Fatty acids	
+PUFA_by_MUFA	Ratio of polyunsaturated fatty acids to monounsaturated fatty acids	ratio	Fatty acids	Fatty acid ratios
+Omega_6_by_Omega_3	Ratio of omega-6 fatty acids to omega-3 fatty acids	ratio	Fatty acids	Fatty acid ratios
+Ala	Alanine	mmol/l	Amino acids	
+Gln	Glutamine	mmol/l	Amino acids	
+Gly	Glycine	mmol/l	Amino acids	
+His	Histidine	mmol/l	Amino acids	
+Total_BCAA	Total concentration of branched-chain amino acids (leucine + isoleucine + valine)	mmol/l	Amino acids	Branched-chain amino acids
+Ile	Isoleucine	mmol/l	Amino acids	Branched-chain amino acids
+Leu	Leucine	mmol/l	Amino acids	Branched-chain amino acids
+Val	Valine	mmol/l	Amino acids	Branched-chain amino acids
+Phe	Phenylalanine	mmol/l	Amino acids	Aromatic amino acids
+Tyr	Tyrosine	mmol/l	Amino acids	Aromatic amino acids
+Glucose	Glucose	mmol/l	Glycolysis related metabolites	
+Lactate	Lactate	mmol/l	Glycolysis related metabolites	
+Pyruvate	Pyruvate	mmol/l	Glycolysis related metabolites	
+Citrate	Citrate	mmol/l	Glycolysis related metabolites	
+bOHbutyrate	3-Hydroxybutyrate	mmol/l	Ketone bodies	
+Acetate	Acetate	mmol/l	Ketone bodies	
+Acetoacetate	Acetoacetate	mmol/l	Ketone bodies	
+Acetone	Acetone	mmol/l	Ketone bodies	
+Creatinine	Creatinine	mmol/l	Fluid balance	
+Albumin	Albumin	g/l	Fluid balance	
+GlycA	Glycoprotein acetyls	mmol/l	Inflammation	
