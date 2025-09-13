@@ -13,3 +13,4 @@ Code from the manuscript '[Mendelian randomisation with proxy exposures: challen
 * [GWAS summary statistics for 56 metabolic traits](https://doi.org/10.5281/zenodo.13821209)
 * [Fine mapping results for 56 metabolic traits](https://doi.org/10.5281/zenodo.13821038)
 * [Harmonised effect sizes and standard errors for 22 fine mapped missense varaiants associated wth histidine and pyruvate](https://github.com/AlasooLab/MR_with_proxy_exposures/blob/main/data/glucose_pyruvate_histidine_missense.tsv)
+* [Fine mapped missense variants for 56 metabolic traits](https://github.com/AlasooLab/MR_with_proxy_exposures/blob/main/data/UKBB_unique_gene_missense_variants_with_pips.json)
